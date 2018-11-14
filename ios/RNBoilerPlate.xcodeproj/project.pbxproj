@@ -325,6 +325,13 @@
 			remoteGlobalIDString = A39873CE1EA65EE60051E01A;
 			remoteInfo = "RNVectorIcons-tvOS";
 		};
+		558954F7219BC9C2009075CE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 146833FF1AC3E56700842450 /* React.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 83CBBA2D1A601D0E00E9B192;
+			remoteInfo = React;
+		};
 		5E9157321DD0AC6500FF2AA8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */;
@@ -757,6 +764,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				558954F8219BC9C2009075CE /* PBXTargetDependency */,
 			);
 			name = RNBoilerPlate;
 			productName = "Hello World";
@@ -1319,6 +1327,11 @@
 			isa = PBXTargetDependency;
 			target = 2D02E47A1E0B4A5D006451C7 /* RNBoilerPlate-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
+		};
+		558954F8219BC9C2009075CE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = React;
+			targetProxy = 558954F7219BC9C2009075CE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 

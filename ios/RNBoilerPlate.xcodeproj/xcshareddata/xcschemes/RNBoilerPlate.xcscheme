@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D8AFADBC1BEE6F3F00A4592D"
-               BuildableName = "libReactNativeNavigation.a"
-               BlueprintName = "ReactNativeNavigation"
-               ReferencedContainer = "container:../node_modules/react-native-navigation/lib/ios/ReactNativeNavigation.xcodeproj">
+               BlueprintIdentifier = "83CBBA2D1A601D0E00E9B192"
+               BuildableName = "libReact.a"
+               BlueprintName = "React"
+               ReferencedContainer = "container:../node_modules/react-native/React/React.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83CBBA2D1A601D0E00E9B192"
-               BuildableName = "libReact.a"
-               BlueprintName = "React"
-               ReferencedContainer = "container:../node_modules/react-native/React/React.xcodeproj">
+               BlueprintIdentifier = "D8AFADBC1BEE6F3F00A4592D"
+               BuildableName = "libReactNativeNavigation.a"
+               BlueprintName = "ReactNativeNavigation"
+               ReferencedContainer = "container:../node_modules/react-native-navigation/lib/ios/ReactNativeNavigation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry

@@ -12,13 +12,11 @@
       }
     },
     "extends" : [
-      "eslint:recommended",
       "plugin:react/recommended",
-      "airbnb",
-      "plugin:prettier/recommended",
-      "prettier/react"
+      "plugin:prettier/recommended"
     ],
     "rules" : {
-      "arrow-body-style" : "warn"
+      "arrow-body-style" : "warn",
+      "prettier/prettier": ["error"]
     }
   }
